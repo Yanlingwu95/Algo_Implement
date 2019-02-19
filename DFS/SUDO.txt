@@ -1,0 +1,14 @@
+
+BT (            ) {    
+    if (is a solution) 
+        process-solution;
+    else 
+        construct _candidate( )
+        for (int candidates ) {
+            bt ( )        
+		}
+}
+
+Graph 找环： 
+无向图： node n, edge >= n 则有环
+有向图： edge的分类
